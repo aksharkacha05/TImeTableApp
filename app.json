@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Timetable",
+    "slug": "TimetableApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.akshar_kacha.TimetableApp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d2715539-de07-41cf-bdf7-f38c75058dd0"
+      }
+    }
+  }
+}
